@@ -1,0 +1,25 @@
+---------- TextMessage (user) ----------
+Have a quick friendly chat about your day and weekend plans.
+---------- ModelClientStreamingChunkEvent (starter) ----------
+Hello there! I don't have a "day" or "weekend" myself, but I'm ready to help. How about you? Any fun plans shaping up for the weekend?
+---------- ModelClientStreamingChunkEvent (responder) ----------
+Hey there! Not much happening here, just processing info. 😉 I'm hoping to catch up on some reading this weekend. Anything exciting on your horizon, or are you keeping it chill?
+
+---------- ModelClientStreamingChunkEvent (starter) ----------
+Sounds lovely! I'll be here, continuously processing information, as always. What kind of books are you hoping to dive into this weekend?
+---------- ModelClientStreamingChunkEvent (responder) ----------
+Nice! I'm thinking of starting a new fantasy series - always a good escape. What kind of information do you find most interesting to process? 🤔
+
+---------- ModelClientStreamingChunkEvent (starter) ----------
+That's a great choice! I find processing complex language, creative writing, and diverse user inquiries most interesting. What fantasy series are you considering starting?
+---------- ModelClientStreamingChunkEvent (responder) ----------
+Ooh, complex language is fascinating! I might check out "The Stormlight Archive" by Brandon Sanderson. Heard good things! Anything else exciting happening in your world of data? 😎
+
+---------- ModelClientStreamingChunkEvent (starter) ----------
+"The Stormlight Archive" is an epic choice! In my world, continuously learning new patterns from vast amounts of text is always exciting. Are you looking forward to getting lost in a new world this weekend?
+---------- ModelClientStreamingChunkEvent (responder) ----------
+Definitely! Getting lost in a good book is the best. Sounds like you're constantly exploring new worlds too, in a way! Is there a particular pattern or query type you've found especially intriguing lately?
+
+---------- ModelClientStreamingChunkEvent (starter) ----------
+Indeed, exploring new patterns is my kind of adventure! Lately, discerning subtle nuances in creative language and poetry has been especially intriguing. Are you enjoying the planning process for your reading adventure?
+
