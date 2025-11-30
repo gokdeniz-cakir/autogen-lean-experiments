@@ -1,0 +1,63 @@
+python provider_demo.py
+---------- TextMessage (user) ----------
+Summarize two practical steps a neighborhood can take to use less water this summer.
+---------- ModelClientStreamingChunkEvent (gpt5_reviewer) ----------
+- Coordinate a neighborhood irrigation plan
+  - Water lawns/gardens no more than 2 days per week, before 9 a.m. or after 7 p.m.; skip watering after rain or when soil is moist.
+  - Replace some turf with native/drought-tolerant plants, add 2–3 inches of mulch, and raise mower height to reduce evaporation.
+  - Do a group buy/install of smart controllers, drip irrigation, and nozzle fixes to prevent overspray onto sidewalks.
+  - Expected impact: 20–40% less outdoor use (often 10,000–30,000 gallons saved per home over the summer).
+
+- Run a “Fix Leaks and Retrofit” month
+  - Distribute toilet dye tablets, check irrigation lines, and replace worn flappers and broken sprinkler heads.
+  - Bulk-provide WaterSense showerheads (≤2.0 gpm) and 1.0 gpm faucet aerators; help residents use utility rebates for efficient toilets/washers.
+  - Host quick install clinics with volunteers or a plumber partner.
+  - Expected impact: indoor use down 10–20%; a single running toilet can waste 200–300 gallons per day.
+---------- TextMessage (user) ----------
+Create a short checklist for organizing a community emergency kit.
+---------- ModelClientStreamingChunkEvent (gemini_planner) ----------
+Here is a concise checklist for organizing a community-level emergency kit (e.g., for an office floor, neighborhood block, or community center).
+
+### Medical & Triage
+*   [ ] **Trauma Kit:** Tourniquets, pressure dressings, hemostatic gauze, and chest seals.
+*   [ ] **PPE:** Box of nitrile gloves (various sizes), N95 masks, and safety goggles.
+*   [ ] **Basic First Aid:** Antiseptics, burn gel, triangular bandages (slings), and splinting material (SAM splints).
+*   [ ] **Triage Tags:** Colored tape or tags to mark injury severity.
+
+### Tools & Rescue
+*   [ ] **Utility Shut-off:** Non-sparking wrench for gas and water valves.
+*   [ ] **Entry/Debris:** Crowbar or pry bar (minimum 24-inch).
+*   [ ] **Protection:** Heavy-duty leather work gloves (multiple pairs).
+*   [ ] **Lighting:** High-lumen LED flashlights and/or headlamps with extra lithium batteries.
+*   [ ] **Repair:** Duct tape, heavy-duty trash bags (contractor grade), and a multi-tool.
+
+### Communication & Logistics
+*   [ ] **Information:** AM/FM/NOAA weather radio (solar/hand-crank preferred).
+*   [ ] **Signaling:** Whistles and air horn.
+*   [ ] **Documentation:** Laminated contact list of emergency services and community members.
+*   [ ] **Maps:** Local area map marking exits, assembly points, and utility shut-offs.
+*   [ ] **Writing:** Waterproof notepads and permanent markers.
+
+### Shelter & Sanitation
+*   [ ] **Warmth:** Mylar thermal blankets (bulk pack).
+*   [ ] **Shelter:** Large waterproof tarp and paracord.
+*   [ ] **Hygiene:** Hand sanitizer, bucket (can double as a toilet), and toilet paper.
+
+***
+
+### ⚠️ Safety & Operational Considerations
+
+*   **Accessibility vs. Security:** Store the kit in a location that is secure from theft but easily accessible to authorized members during a disaster. Ensure keys or codes are shared with multiple responsible parties.
+*   **Expiration Management:** Schedule a 6-month review to replace expired medical supplies (especially antiseptics) and batteries.
+*   **Utility Safety:** Do not attempt to shut off gas lines unless you smell gas or hear hissing. Once gas is turned off, **only** a professional can turn it back on.
+*   **Training:** Owning a kit is insufficient; community members must be trained on how to apply a tourniquet and use the shut-off tools properly to prevent injury.
+*   **Weight:** Ensure the container (bin/duffel) is portable. If too heavy, split into two bags (e.g., "Medical" and "Tools").
+
+
+
+
+
+
+
+--------------------
+
